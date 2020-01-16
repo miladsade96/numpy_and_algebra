@@ -2,17 +2,7 @@
 
 # List Of Contents:
 
-## Number_1 - Introduction to Numpy:
-* Importing Numpy
-* Creating An Array
-* Displaying An Array
-* Function To Create Arrays:
-  * Empty()
-  * Zeros()
-  * Ones()
-* Combining Arrays:
-  * Vertical Stack
-  * Hrizontal Stack
+
   
 ## Number_2 - Indexing, Slicing And Reshaping Numpy Arrays:
 * From List To Array:
