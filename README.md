@@ -7,3 +7,4 @@
 ### [Number_3 - Numpy Array Broadcasting](Content%20details/Number_3.md)
 ### [Number_4 - Vectors And Vector Arithmetic](Content%20details/Number_4.md)
 ### [Number_5 - Vector Norms](Content%20details/Number_5.md)
+### [Number_6 - Matrices And Matrix Arithmetic](Content%20details/Number_6.md)
