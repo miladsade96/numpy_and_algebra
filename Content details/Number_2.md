@@ -4,7 +4,7 @@
   * Two Dimensional List Of Lists To Array
 * Array Indexing:
   * One Dimensional Indexing
-  * Two Dimensioal Indexing
+  * Two Dimensional Indexing
 * Array Slicing:
   * One Dimensional Slicing
   * Split Input And Output Features
