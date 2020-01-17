@@ -6,3 +6,4 @@
 ### [Number_2 - Indexing, Slicing And Reshaping Numpy Arrays](Content%20details/Number_2.md)
 ### [Number_3 - Numpy Array Broadcasting](Content%20details/Number_3.md)
 ### [Number_4 - Vectors And Vector Arithmetic](Content%20details/Number_4.md)
+### [Number_5 - Vector Norms](Content%20details/Number_5.md)
