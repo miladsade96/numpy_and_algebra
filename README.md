@@ -8,3 +8,4 @@
 ### [Number_4 - Vectors And Vector Arithmetic](Content%20details/Number_4.md)
 ### [Number_5 - Vector Norms](Content%20details/Number_5.md)
 ### [Number_6 - Matrices And Matrix Arithmetic](Content%20details/Number_6.md)
+### [Number_7 - Types of Matrices](Content%20details/Number_7.md)
