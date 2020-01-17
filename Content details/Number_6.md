@@ -1,4 +1,4 @@
-### Matrices And Matrix Arithmetic:
+## Matrices And Matrix Arithmetic:
 * Defining A Matrix
 * Matrix Arithmetic:
     * Matrix Addition
