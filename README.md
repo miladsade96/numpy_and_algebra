@@ -11,3 +11,4 @@
 ### [Number_07 - Types of Matrices](Content%20details/Number_07.md)
 ### [Number_08 - Matrix Operations](Content%20details/Number_08.md)
 ### [Number_09 - Sparse Matrices](Content%20details/Number_09.md)
+### [Number_10 - Tensors And Tensor Arithmetic](Content%20details/Number_10.md)
