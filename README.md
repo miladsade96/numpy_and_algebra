@@ -10,3 +10,4 @@
 ### [Number_6 - Matrices And Matrix Arithmetic](Content%20details/Number_6.md)
 ### [Number_7 - Types of Matrices](Content%20details/Number_7.md)
 ### [Number_8 - Matrix Operations](Content%20details/Number_8.md)
+### [Number_9 - Sparse Matrices](Content%20details/Number_09.md)
