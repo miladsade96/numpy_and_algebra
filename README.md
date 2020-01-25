@@ -12,3 +12,4 @@
 ### [Number_08 - Matrix Operations](Content%20details/Number_08.md)
 ### [Number_09 - Sparse Matrices](Content%20details/Number_09.md)
 ### [Number_10 - Tensors And Tensor Arithmetic](Content%20details/Number_10.md)
+### [Number_11 - Matrix Decompositions](Content%20details/Number_11.md)
