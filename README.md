@@ -15,3 +15,4 @@
 ### [Number_11 - Matrix Decompositions](Content%20details/Number_11.md)
 ### [Number_12 - Eigen Decomposition](Content%20details/Number_12.md)
 ### [Number_13 - Singular Value Decomposition](Content%20details/Number_13.md)
+### [Number_14 - Introduction to Multivariate Statistics](Content%20details/Number_14.md)
